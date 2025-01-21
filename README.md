@@ -1,0 +1,1 @@
+# Linear_Regression_with_Regularization_and_Classification_with_ANN_BDSD_Home_Taken_Exams_2024
